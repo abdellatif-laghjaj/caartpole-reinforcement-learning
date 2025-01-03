@@ -1,5 +1,5 @@
-gym
-tensorflow
-keras-rl2
 numpy
 pygame
+gymnasium
+tensorflow
+keras-rl2
