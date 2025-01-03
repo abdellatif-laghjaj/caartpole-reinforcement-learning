@@ -1,5 +1,5 @@
 numpy
 pygame
-tensorflow
-gym
-keras-rl2
+tensorflow==2.9.0
+gym==0.21.0
+keras-rl2==1.0.5
